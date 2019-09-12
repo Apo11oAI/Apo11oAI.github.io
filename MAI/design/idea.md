@@ -82,13 +82,13 @@
 >
 > 论文题目：BiRA-Net：糖尿病视网膜病变分级的双线性注意网
 
-> 论文地址： 
+> 论文地址： https://www.sciencedirect.com/science/article/pii/S0933365718307838
 >
-> 论文题目：
+> 论文题目：用于精神分裂症诊断的动态阈值网络
 
-> 论文地址： 
+> 论文地址： https://www.sciencedirect.com/science/article/pii/S093336571830277X#!
 >
-> 论文题目：
+> 论文题目：舌体识别的复杂性感知分类方法
 # 个性化（根据偏好定制）
 > 论文地址： https://www.sciencedirect.com/science/article/pii/S0933365716305449
 >
